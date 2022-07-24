@@ -15,7 +15,7 @@ namespace Tarefas.Services
       {
         new TarefaItem
         {
-            Nome = "Aprendendo ASP.NET Cpre 2.2",
+            Nome = "Aprendendo ASP.NET Core 2.2",
             EstaCompleta = false,
             DataConclusao = DateTimeOffset.Now.AddDays(30)
         },
